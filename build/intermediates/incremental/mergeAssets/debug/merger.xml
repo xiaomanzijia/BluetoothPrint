@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/licheng/Downloads/bluetoothActivityGradle/app/src/main/assets"><file name="print.apk" path="/Users/licheng/Downloads/bluetoothActivityGradle/app/src/main/assets/print.apk"/><file name="zhong.ttf" path="/Users/licheng/Downloads/bluetoothActivityGradle/app/src/main/assets/zhong.ttf"/></source></dataSet><dataSet config="debug"><source path="/Users/licheng/Downloads/bluetoothActivityGradle/app/src/debug/assets"/></dataSet></merger>

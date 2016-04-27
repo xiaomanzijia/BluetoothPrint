@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyBluetooth</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="btnFindDevice">查找附近蓝牙设备</string>
+    <string name="btnPrint">发送并打印文档</string>
+    <string name="txtImageDesc">蓝牙设备图片</string>
+    <string name="btnSclawbook">生成执法文书</string>
+    <string name="lbCorpName">企业名称：</string>
+    <string name="lbCorpAddress">企业地址：</string>
+    <string name="lbCheckRecord">检查情况：</string>
+
+</resources>

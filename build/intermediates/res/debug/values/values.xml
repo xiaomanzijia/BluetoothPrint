@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/licheng/Downloads/bluetoothActivityGradle/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">MyBluetooth</string>
+    <string name="btnFindDevice">查找附近蓝牙设备</string>
+    <string name="btnPrint">发送并打印文档</string>
+    <string name="btnSclawbook">生成执法文书</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="lbCheckRecord">检查情况：</string>
+    <string name="lbCorpAddress">企业地址：</string>
+    <string name="lbCorpName">企业名称：</string>
+    <string name="menu_settings">Settings</string>
+    <string name="txtImageDesc">蓝牙设备图片</string>
+    <!-- From: file:/Users/licheng/Downloads/bluetoothActivityGradle/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>
